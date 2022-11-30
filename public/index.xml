@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Excavating Mind</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Excavating Mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://example.org/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2020-12-01-r-rmarkdown/</guid>
+      <description>Hello all, I hope you are doing well. This brief introductory post will outline what I want to achieve with my blogging website. I will outline these here.
+To aid creating a professional web presence to demonstrate my skills as a hopeful psychology PhD candidate and subsequent postdoc researcher / lecturer.
+To provide accessible and reproducible open psychology and data science content.
+To support undergraduate and postgraduate psychology students by providing them with content that enhances their skills.</description>
+    </item>
+    
+  </channel>
+</rss>
