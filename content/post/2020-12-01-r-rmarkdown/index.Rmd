@@ -1,37 +1,22 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
+title: "Welcome"
+author: "Excavating Mind"
+date: 2022-11-30
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["introduction", "r", "psychology"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Hello all, I hope you are doing well. This brief introductory post will outline what I want to achieve with my blogging website. I will outline these here.
 
-You can embed an R code chunk like this:
+1. To aid creating a professional web presence to demonstrate my skills as a hopeful psychology PhD candidate and subsequent postdoc researcher / lecturer.
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+2. To provide accessible and reproducible open psychology and data science content.
 
-# Including Plots
+3. To support undergraduate and postgraduate psychology students by providing them with content that enhances their skills.
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+4. To make this site a hub for all my other projects that will be posted here. For example, I have book ideas that are being continuously developed and deployed. 
