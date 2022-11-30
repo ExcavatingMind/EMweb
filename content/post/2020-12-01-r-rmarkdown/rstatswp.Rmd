@@ -1,0 +1,14 @@
+---
+title: "R and Stats white paper"
+author: "Excavating Mind"
+date: 2022-11-30
+categories: ["R"]
+tags: ["r", "psychology", "data science"]
+bibliography: references.bib
+---
+
+# Introduction
+
+The mathematical ability of a psychology student is strongly associated to their quantitative research method and math performance in assignments and when conducting research; however, psychology students tend to have a lower mathematics grade than students studying the core sciences [@gibbs2010]. Additionally, students with lower mathematics grades are likely to suffer from math anxiety; the feeling of nervousness surrounding any learnt topic revolving around mathematical comprehension [@zhang2019]. As numerous studies have suggested, math anxiety is strongly negatively associated with math performance [@khasawneh2021].
+
+
