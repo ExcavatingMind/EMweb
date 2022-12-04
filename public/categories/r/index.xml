@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>R on Excavating Mind</title>
-    <link>http://example.org/categories/r/</link>
+    <link>https://excavating-mind.netlify.app/categories/r/</link>
     <description>Recent content in R on Excavating Mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://excavating-mind.netlify.app/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R and Stats white paper</title>
+      <link>https://excavating-mind.netlify.app/post/r-statswhitepaper/rstatswpp/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://excavating-mind.netlify.app/post/r-statswhitepaper/rstatswpp/</guid>
+      <description>IntroductionThe mathematical ability of a psychology student is strongly associated to their quantitative research method and math performance in assignments and when conducting research; however, psychology students tend to have a lower mathematics grade than students studying the core sciences (Gibbs 2010). Additionally, students with lower mathematics grades are likely to suffer from math anxiety; the feeling of nervousness surrounding any learnt topic revolving around mathematical comprehension (Zhang, Zhao, and Kong 2019).</description>
+    </item>
+    
     <item>
       <title>Welcome</title>
-      <link>http://example.org/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://excavating-mind.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://excavating-mind.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
       <description>Hello all, I hope you are doing well. This brief introductory post will outline what I want to achieve with my blogging website. I will outline these here.
 To aid creating a professional web presence to demonstrate my skills as a hopeful psychology PhD candidate and subsequent postdoc researcher / lecturer.
 To provide accessible and reproducible open psychology and data science content.

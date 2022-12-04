@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://excavating-mind.netlify.app/categories/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://excavating-mind.netlify.app/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/introduction/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://excavating-mind.netlify.app/tags/introduction/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://excavating-mind.netlify.app/post/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/psychology/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://excavating-mind.netlify.app/tags/psychology/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/r/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://excavating-mind.netlify.app/tags/r/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/r/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://excavating-mind.netlify.app/categories/r/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://excavating-mind.netlify.app/post/r-statswhitepaper/rstatswpp/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://excavating-mind.netlify.app/tags/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://excavating-mind.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url>
 </urlset>
