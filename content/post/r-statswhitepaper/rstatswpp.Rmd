@@ -1,5 +1,5 @@
 ---
-title: "R and Stats white paper"
+title: "R and Stats micro-white paper"
 author: "Excavating Mind"
 date: "2022-11-30"
 categories: ["R"]
@@ -9,7 +9,7 @@ bibliography: references.bib
 
 ## Introduction
 
-The mathematical ability of a psychology student is strongly associated to their quantitative research method and math performance in assignments and when conducting research; however, psychology students tend to have a lower mathematics grade than students studying the core sciences [@gibbs2010]. Additionally, students with lower mathematics grades are likely to suffer from math anxiety; the feeling of nervousness surrounding any learnt topic revolving around mathematical comprehension [@zhang2019]. As numerous studies have suggested, math anxiety is strongly negatively associated with math performance [@khasawneh2021]. Lastly, psychology is becoming far more integrated with computer scientific concepts, e.g., programming in r; math and computer science ability are strongly positively associated [@sari2018]. Overall, numerous findings suggest that for psychology students to get the best out of their degrees and to truly comprehend psychological research methods, math ability must improve.
+A psychology student's math ability is strongly associated with their quantitative research method and math performance in assignments and research. However, psychology students tend to have a lower mathematics grade than students studying the core sciences [@gibbs2010]. Additionally, students with lower mathematics grades are likely to suffer from math anxiety; the nervous feeling surrounding any learnt topic revolving around math comprehension [@zhang2019]. As numerous studies have suggested, math anxiety is strongly negatively associated with math performance [@khasawneh2021]. Lastly, psychology is becoming far more integrated with computer scientific concepts, e.g., programming in r; math and computer science ability are strongly positively associated [@sari2018]. Overall, numerous findings suggest that for psychology students to get the best out of their degrees and to truly comprehend psychological research methods, math ability must improve.
 
 ## My experience
 
@@ -17,7 +17,7 @@ The predominant reason for this project beginning was my own experience with mat
 
 ## R and stats
 
-Overall, I saw that if students were provided with accessible content, they could drastically improve their comprehension of difficult topics. Throughout my work as a tutor, I have constantly attempted to produce highly accessible content and provide students with every opportunity to improve their understanding. So, I thought if I could create content that my 14-year-old self would grasp, then, I would be created content that would greatly benefit other psychology students with low math understanding and high math anxiety.
+Overall, I saw that if students were provided with accessible content, they could drastically improve their comprehension of difficult topics. Throughout my work as a tutor, I have constantly attempted to produce highly accessible content and provide students with every opportunity to improve their understanding. So, I thought if I could create content that my 16-year-old self would grasp, then, I would be created content that would greatly benefit other psychology students with low math understanding and high math anxiety.
 
 ## The online book
 
